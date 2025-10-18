@@ -98,10 +98,10 @@ class MyApp extends StatelessWidget {
         
         body: Center(
           child: ProfileCard(
-            name: 'Patipan Watjanapron',
+            name: 'natchanon tiangtam',
             position: 'Programmer',
-            email: 'patipan.wat@gmail.com',
-            phoneNumber: '08213942414',
+            email: 'tiangtam_n@silpakorn.edu',
+            phoneNumber: '0123456789',
             imageUrl:
                 'https://scontent.fbkk7-3.fna.fbcdn.net/v/t1.6435-1/129724092_868685853942110_6058894233993946873_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=101&ccb=1-7&_nc_sid=e99d92&_nc_eui2=AeHBi-SopKWgcptrY--qco_Jb1ct7aOoC2xvVy3to6gLbJtU2Am1KeVjvXn4bLEf85H9MkQoAgYIlyfQoZHwbP4m&_nc_ohc=j9Ma08TcdmYQ7kNvwGQJoDA&_nc_oc=AdmEnNIySjYv5u3QocLqTjcoB6-z0Kvt6jGh8_sHAAk6wgO8n7YTf8gBuj1BgxA_KLQ&_nc_zt=24&_nc_ht=scontent.fbkk7-3.fna&_nc_gid=TYmyYnSAcCHi_2F-5yfMDg&oh=00_AfcmfZQwfOhXrUnu0n-wx39Ime48pXfVqiBKiAWe83SX2A&oe=691A6DB0',
           ),
